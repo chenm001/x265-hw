@@ -2,12 +2,12 @@
 ?266 - open H.266 codec reference implementation
 ==========================================
 
-## **Note: The project will be rename soon due to the Multicoreware scramble my x266 registering trademarks, the new project name will be decide in later, it sounds not affect develop H.266 codec.**
+## **Note: The project will be renamed soon due to the fact that Multicoreware scrambled my x266 registering trademarks, the new project name will be decided in later, it sounds like it will not affect development of the H.266 codec.**
 
 
 ?266 is an open source highly optimal software/hardware co-design architecture implementation of the next generation H.266 video codec.
 
-It is demonstration research of industrialized implement video coding H.266. as soon as H.266 specification release, I will publishing my industrialize H.266 codec.
+It is a demonstration/research of industrialized video codec H.266. as soon as H.266 specification is released, I will publish my industrialized H.266 codec.
 
 _?266 based on Software/Hardware Cooperative concept and custom RISC-V processor with audio/video/image/deep_learning SIMD extension._
 
